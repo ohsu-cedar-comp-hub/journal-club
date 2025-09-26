@@ -7,7 +7,6 @@ This repository documents our weekly journal club, where we review and discuss r
 📍 Location: Room 3106, Knight Cancer Institute, OHSU – and via Webex  
 📩 Join us: Contact [Çiğdem Ak](mailto:ak@ohsu.edu) for the calendar invite and Teams chat
 
-## 2025
 | Date       | Presenter                            | Title                                                                                                                                                                        |
 | ---------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025-09-12 | Hugo Cros                            | [Thermodynamic computing system for AI applications](https://www.nature.com/articles/s41467-025-59011-x)                                                                     |
