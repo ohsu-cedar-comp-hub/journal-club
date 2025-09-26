@@ -7,6 +7,7 @@ This repository documents our weekly journal club, where we review and discuss r
 📍 Location: Room 3106, Knight Cancer Institute, OHSU – and via Webex  
 📩 Join us: Contact [Çiğdem Ak](mailto:ak@ohsu.edu) for the calendar invite and Teams chat
 
+## 2025
 | Date       | Presenter                            | Title                                                                                                                                                                        |
 | ---------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025-09-12 | Hugo Cros                            | [Thermodynamic computing system for AI applications](https://www.nature.com/articles/s41467-025-59011-x)                                                                     |
@@ -31,6 +32,9 @@ This repository documents our weekly journal club, where we review and discuss r
 | 2025-02-14 | Connor Frankston                     | [scHiGex: predicting single-cell gene expression based on single-cell Hi-C data](https://academic.oup.com/nargab/article/7/1/lqaf002/7983898)                                |
 | 2025-01-24 | Mustafa Akur                         | [BERT-style model paper (title not given)](https://arxiv.org/pdf/1810.04805)                                                                                                 |
 | 2025-01-17 | Kaoutar Ait-Ahmad                    | [A foundation model of transcription across human cell types](https://www.nature.com/articles/s41586-024-08378-w)                                                            |
+## 2024
+| Date       | Presenter                            | Title                                                                                                                                                                        |
+| ---------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2024-12-13 | Sydney Hamilton                      | [Machine Learning for Predicting Therapeutic Outcomes in Acute Myeloid Leukemia Patients](https://www.medrxiv.org/content/10.1101/2024.02.29.24303536v1.full)                |
 | 2024-11-22 | Layaa Sivakumar                      | [CelLink: Integrate single-cell multi-omics data with few linked features and imbalanced cell populations](https://www.biorxiv.org/content/10.1101/2024.11.08.622745v1.full) |
 | 2024-11-15 | Emily Chao                           | [Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics](https://www.nature.com/articles/s41592-023-01971-3)                   |
