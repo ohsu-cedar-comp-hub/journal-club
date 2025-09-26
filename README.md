@@ -4,7 +4,7 @@
 This repository documents our weekly journal club, where we review and discuss recent advances in computational biology, single-cell technologies, and machine learning.  
 
 🗓 Meetings: Fridays at 11:00 AM  
-📍 Location: Room 3106 and via Webex  
+📍 Location: Room 3106, Knight Cancer Institute, OHSU – and via Webex  
 📩 Join us: Contact [Çiğdem Ak](mailto:ak@ohsu.edu) for the calendar invite and Teams chat
 
 | Date       | Presenter                            | Title                                                                                                                                                                        |
