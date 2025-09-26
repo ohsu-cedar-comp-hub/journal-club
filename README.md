@@ -5,9 +5,8 @@ This repository documents our weekly journal club, where we review and discuss r
 
 🗓 Meetings: Fridays at 11:00 AM  
 📍 Location: Room 3106 and via Webex  
-📩 Join us: Email ak@ohsu.edu for the calendar invite and to join our Teams chat
+📩 Join us: Email ak@ohsu.edu for a calendar invite and to join our Teams chat
 
-## 2025
 | Date       | Presenter                            | Title                                                                                                                                                                        |
 | ---------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025-09-12 | Hugo Cros                            | [Thermodynamic computing system for AI applications](https://www.nature.com/articles/s41467-025-59011-x)                                                                     |
@@ -26,25 +25,22 @@ This repository documents our weekly journal club, where we review and discuss r
 | 2025-05-30 | Samantha Worme                       | [Dissecting regulatory syntax in human development with scalable multiomics and deep learning](https://www.biorxiv.org/content/10.1101/2025.04.30.651381v1)                  |
 | 2025-05-23 | Nikki Szczepanski                    | [Interpretable phenotype decoding from multi-condition sequencing data with ALPINE](https://www.biorxiv.org/content/10.1101/2025.02.15.638471v1)                             |
 | 2025-03-21 | Christopher Eddy                     | [Bridging equation learning and biological modeling with physics-informed neural networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008462)   |
-| 2025-03-14 | Travis Moore                         | [EpiCHAOS: a metric to quantify epigenomic heterogeneity in single-cell data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03446-w) |
+| 2025-03-14 | Travis Moore                         | [EpiCHAOS: a metric to quantify epigenomic heterogeneity in single-cell data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03446-w)                   |
 | 2025-02-28 | Juyoung Lee                          | [Stripe asymmetry as a directionality signal for the genome](https://www.nature.com/articles/s41467-022-29258-9)                                                             |
 | 2025-02-21 | Mustafa Akur                         | [LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedical Applications](https://arxiv.org/abs/2306.00890)                                                    |
-| 2025-02-14 | Connor Frankston                     | [scHiGex: predicting single-cell gene expression based on single-cell Hi-C data](https://academic.oup.com/nargab/article/7/1/lqaf002/7983898) |
+| 2025-02-14 | Connor Frankston                     | [scHiGex: predicting single-cell gene expression based on single-cell Hi-C data](https://academic.oup.com/nargab/article/7/1/lqaf002/7983898)                                |
 | 2025-01-24 | Mustafa Akur                         | [BERT-style model paper (title not given)](https://arxiv.org/pdf/1810.04805)                                                                                                 |
 | 2025-01-17 | Kaoutar Ait-Ahmad                    | [A foundation model of transcription across human cell types](https://www.nature.com/articles/s41586-024-08378-w)                                                            |
-## 2024
-| Date       | Presenter                            | Title                                                                                                                                                                        |
-| ---------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024-12-13 | Sydney Hamilton | [Machine Learning for Predicting Therapeutic Outcomes in Acute Myeloid Leukemia Patients](https://www.medrxiv.org/content/10.1101/2024.02.29.24303536v1.full) |
-| 2024-11-22 | Layaa Sivakumar | [CelLink: Integrate single-cell multi-omics data with few linked features and imbalanced cell populations](https://www.biorxiv.org/content/10.1101/2024.11.08.622745v1.full) |
-| 2024-11-15 | Emily Chao | [Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics](https://www.nature.com/articles/s41592-023-01971-3) |
-| 2024-11-08 | Cigdem Ak | [Multi-task learning from multimodal single-cell omics with Matilda](https://doi.org/10.1093/nar/gkad157) |
-| 2024-09-27 | Samantha Worme | [Single-cell multi-scale footprinting reveals the modular organization of DNA regulatory elements](https://www.biorxiv.org/content/10.1101/2023.03.28.533945v1) |
-| 2024-09-20 | Stephen Coleman | [scMaui: a widely applicable deep learning framework for single-cell multiomics integration](https://link.springer.com/article/10.1186/s12859-024-05880-w) |
-| 2024-09-13 | Ruben Lancaster | [Fast, accurate, and racially unbiased pan-cancer tumor-only variant calling with tabular machine learning](https://www.nature.com/articles/s41698-022-00340-1) |
-| 2024-09-06 | Ian Vangordon | [Analyzing single-cell bisulfite sequencing data with MethSCAn](https://www.nature.com/articles/s41592-024-02347-x) |
-| 2024-08-30 | Nikki Szczepanski | [Integration of Single-Cell RNA-Seq Datasets: A Review of Computational Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9982060/) |
-| 2024-08-23 | Hugo Cros | [SpaNorm: spatially-aware normalisation for spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2024.05.31.596908v1) |
-| 2024-08-15 | Aaron Doe | [Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology](https://www.nature.com/articles/s41587-023-02019-9) |
-| 2024-08-09 | Rosalyn Fey | [Deep learning predictions of TCR-epitope interactions reveal epitope-specific chains in dual alpha T cells](https://www.nature.com/articles/s41467-024-47461-8) |
-| 2024-07-25 | Garth Kong | [DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors](https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30073-0) |
+| 2024-12-13 | Sydney Hamilton                      | [Machine Learning for Predicting Therapeutic Outcomes in Acute Myeloid Leukemia Patients](https://www.medrxiv.org/content/10.1101/2024.02.29.24303536v1.full)                |
+| 2024-11-22 | Layaa Sivakumar                      | [CelLink: Integrate single-cell multi-omics data with few linked features and imbalanced cell populations](https://www.biorxiv.org/content/10.1101/2024.11.08.622745v1.full) |
+| 2024-11-15 | Emily Chao                           | [Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multiomics](https://www.nature.com/articles/s41592-023-01971-3)                   |
+| 2024-11-08 | Cigdem Ak                            | [Multi-task learning from multimodal single-cell omics with Matilda](https://doi.org/10.1093/nar/gkad157)                                                                    |
+| 2024-09-27 | Samantha Worme                       | [Single-cell multi-scale footprinting reveals the modular organization of DNA regulatory elements](https://www.biorxiv.org/content/10.1101/2023.03.28.533945v1)              |
+| 2024-09-20 | Stephen Coleman                      | [scMaui: a widely applicable deep learning framework for single-cell multiomics integration](https://link.springer.com/article/10.1186/s12859-024-05880-w)                   |
+| 2024-09-13 | Ruben Lancaster                      | [Fast, accurate, and racially unbiased pan-cancer tumor-only variant calling with tabular machine learning](https://www.nature.com/articles/s41698-022-00340-1)              |
+| 2024-09-06 | Ian Vangordon                        | [Analyzing single-cell bisulfite sequencing data with MethSCAn](https://www.nature.com/articles/s41592-024-02347-x)                                                          |
+| 2024-08-30 | Nikki Szczepanski                    | [Integration of Single-Cell RNA-Seq Datasets: A Review of Computational Methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9982060/)                                      |
+| 2024-08-23 | Hugo Cros                            | [SpaNorm: spatially-aware normalisation for spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2024.05.31.596908v1)                                       |
+| 2024-08-15 | Aaron Doe                            | [Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology](https://www.nature.com/articles/s41587-023-02019-9)                   |
+| 2024-08-09 | Rosalyn Fey                          | [Deep learning predictions of TCR-epitope interactions reveal epitope-specific chains in dual alpha T cells](https://www.nature.com/articles/s41467-024-47461-8)             |
+| 2024-07-25 | Garth Kong                           | [DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors](https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30073-0)   
