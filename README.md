@@ -1,4 +1,8 @@
-# Computational Biology Journal Club
+---
+title: Computational Biology Journal Club
+layout: default
+---
+
 This repository documents our weekly journal club, where we review and discuss recent advances in computational biology, single-cell technologies, and machine learning.  
 
 🗓 Meetings: Fridays at 11:00 AM  
