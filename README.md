@@ -5,7 +5,7 @@ This repository documents our weekly journal club, where we review and discuss r
 
 🗓 Meetings: Fridays at 11:00 AM  
 📍 Location: Room 3106 and via Webex  
-📩 Join us: Email ak@ohsu.edu for a calendar invite and to join our Teams chat
+📩 Join us: Contact [Çiğdem Ak](mailto:ak@ohsu.edu) for the calendar invite and Teams chat
 
 | Date       | Presenter                            | Title                                                                                                                                                                        |
 | ---------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
